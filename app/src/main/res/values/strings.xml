@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">快捷工具</string>
+    <string name="tool_1">谷歌镜像搜索</string>
+    <string name="tool_1_1">本地资源</string>
+    <string name="tool_1_2">http://scholar.hedasudi.com/</string>
+    <string name="tool_1_button">确认</string>
+    <string name="google_title">谷歌镜像链接</string>
+    <string name="tool_1_url_text">输入谷歌镜像网址</string>
+    <string name="tool_1_add_url_button">添加该链接到本地</string>
+    <string name="tool_1_del_url_button">从本地删除该链接</string>
+    <string name="tool_1_word_text">输入搜索词</string>
+    <string name="tool_1_add_word_button">添加该搜索词到本地</string>
+    <string name="tool_1_del_word_button">从本地删除该搜索词</string>
+    <string name="tool_1_generate">生成搜索链接</string>
+    <string name="tool_1_generate_text">搜索链接</string>
+</resources>
